@@ -2,7 +2,7 @@
 Kangkai Wu , Jingjing Li, Lichao Meng, Fengling Li, Heng Tao Shen
 
 Abstract: Unsupervised domain adaptation (UDA) strives to transfer the learned knowledge to differently distributed datasets by utilizing both source and target data. Recently, an increasing number of UDA methods have been proposed for domain adaptive remaining useful lifetime (RUL) prediction. However, many industries value their privacy protection a lot. The confidentiality of degradation data in certain fields, such as aircraft engines or bearings, makes the source data inaccessible. To cope with this challenge, our work proposes a source-free domain adaption method to implement cross-domain RUL prediction. Especially, an adversarial architecture with one feature encoder and two RUL predictors is proposed. We first maximize the prediction discrepancy between the predictors to detect target samples that are far from the support of the source. Then the feature encoder is trained to minimize the discrepancy, which can generate features near the support. Besides, a weight regularization is utilized to replace the supervised training on the source domain. We evaluate our proposed approach on the commonly used C-MAPSS and FEMTO-ST datasets. Extensive experiment results demonstrate that our approach can significantly improve the prediction reliability on the target domain.
-
+![Step](https://s2.loli.net/2023/09/21/tKhdiPwUj8BZ7q6.jpg)
 
 ## Usage
 
@@ -22,3 +22,4 @@ The processed data can be downloaded from this [LINK](https://drive.google.com/d
 
 ## Results
 ![Result1](https://s2.loli.net/2023/09/21/tKhdiPwUj8BZ7q6.jpg)
+![Result2](https://s2.loli.net/2023/09/21/tKhdiPwUj8BZ7q6.jpg)
