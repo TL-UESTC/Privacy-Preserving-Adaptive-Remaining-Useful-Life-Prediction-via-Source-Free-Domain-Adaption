@@ -26,6 +26,7 @@ The processed data can be downloaded from this [LINK](https://drive.google.com/d
 ![Result2](https://s2.loli.net/2023/09/21/NoRVubG1ImgW2qH.jpg)
 
 ## Citation
+```
 @article{wu2023privacy,
   title={Privacy-Preserving Adaptive Remaining Useful Life Prediction via Source Free Domain Adaption},
   author={Wu, Kangkai and Li, Jingjing and Meng, Lichao and Li, Fengling and Shen, Heng Tao},
@@ -33,3 +34,4 @@ The processed data can be downloaded from this [LINK](https://drive.google.com/d
   year={2023},
   publisher={IEEE}
 }
+```
