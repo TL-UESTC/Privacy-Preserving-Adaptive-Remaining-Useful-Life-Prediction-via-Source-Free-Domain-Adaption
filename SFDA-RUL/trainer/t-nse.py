@@ -17,7 +17,6 @@ from data.data_processing_phm import *
 from torch.utils.data import DataLoader
 from data.mydataset import create_dataset_full
 import matplotlib.pyplot as plt
-from trainer.train_eval import evaluate
 import time
 from torch.utils.tensorboard import SummaryWriter
 import wandb
